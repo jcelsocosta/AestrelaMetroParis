@@ -7,6 +7,6 @@ a distância em linha reta entre duas estações quaisquer é dada pela tabela 1
 a velocidade média de um trem é de 30km/h;
 o tempo gasto para trocar de linha dentro de mesma estação (fazer baldeação) é de 4 minutos.
 
-![alt text](https://github.com/jcelsocosta/AestrelaMetroParis/blob/main/metroParisjpg.jpg)
-![alt text](https://github.com/jcelsocosta/AestrelaMetroParis/blob/main/tabela1jpg.jpg)
-![alt text](https://github.com/jcelsocosta/AestrelaMetroParis/blob/main/tabela2.jpg)
+![alt text](https://github.com/jcelsocosta/AestrelaMetroParis/blob/main/metroParisjpg.jpg)<br/>
+![alt text](https://github.com/jcelsocosta/AestrelaMetroParis/blob/main/tabela1jpg.jpg)<br/>
+![alt text](https://github.com/jcelsocosta/AestrelaMetroParis/blob/main/tabela2.jpg)<br/>
