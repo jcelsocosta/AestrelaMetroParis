@@ -9,4 +9,4 @@ o tempo gasto para trocar de linha dentro de mesma estação (fazer baldeação)
 
 ![alt text](https://github.com/jcelsocosta/AestrelaMetroParis/blob/main/metroParisjpg.jpg)
 ![alt text](https://github.com/jcelsocosta/AestrelaMetroParis/blob/main/tabela1jpg.jpg)
-![alt text](https://github.com/jcelsocosta/AestrelaMetroParis/blob/main/tabela2jpg.jpg)
+![alt text](https://github.com/jcelsocosta/AestrelaMetroParis/blob/main/tabela2.jpg)
